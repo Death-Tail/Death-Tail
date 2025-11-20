@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="/Image/Banner.png" alt="Death-Tail Banner" width="30%" align="right"/>
+  <img src="/Image/foxy.png" alt="Death-Tail Banner" width="30%" align="right"/>
 </p>
 
 
